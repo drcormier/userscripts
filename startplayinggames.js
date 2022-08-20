@@ -10,6 +10,8 @@
 // ==/UserScript==
 'use strict';
 
-$(document).ready(function() {
-    alert('New script loaded.');
-});
+function replaceTimes() {
+    alert('testing')
+}
+
+window.addEventListener('load', replaceTimes);
