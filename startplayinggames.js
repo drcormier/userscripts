@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://startplaying.games/*
 // @grant       none
-// @version     1.0
+// @version     1.0.1
 // @author      Daniel Cormier
 // @description 8/20/2022, 12:32:45 AM
 // @require http://code.jquery.com/jquery-latest.js
